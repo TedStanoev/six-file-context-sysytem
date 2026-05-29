@@ -1,25 +1,21 @@
 # Progress Tracker
 
+Update this file whenever the current phase, active feature, or implementation state changes. 
+
 ## Current System State
-* **Current Phase:** Phase 1: Authentication & Workspace Setup
-* **Active Task:** Implementing the collaborative canvas component using Liveblocks.
+* Not started
 
-## 📋 Roadmap & Status
+## Current Goal
+* Define the immediate implementation goal here
 
-### Phase 1: Foundation (🟢 Complete)
-* [x] Initialize Next.js 15 template with TypeScript
-* [x] Configure Tailwind CSS and Shadcn UI components
-* [x] Integrate Clerk Authentication and set up protected route boundaries
+## Completed
+* None yet
 
-### Phase 2: Core Workspace (🟡 In Progress)
-* [/] Set up database schemas and migrations via Prisma
-* [ ] Implement the dynamic interactive canvas element
-* [ ] Integrate Liveblocks multi-user cursor presence
+## In progress
+* None yet
 
-### Phase 3: AI Engine & Deployment (🔴 Not Started)
-* [ ] Create server action routes handling background prompt synthesis
-* [ ] Deploy finalized platform environment to Vercel
+## Next up
+* Add the next planned feature unit here
 
-## 📝 Recent Architectural Decisions
-* **[Date]:** Switched from client-side WebSockets to Liveblocks to cleanly handle high-frequency synchronized canvas data.
-* **[Date]:** Opted to handle schema mutations through Server Actions to reduce API routing boilerplate.
+## Open questions
+* Add unresolved product or implementation questions here
